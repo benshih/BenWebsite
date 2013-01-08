@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2012.9.4)  8 JAN 2013 13:46
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2012.9.4)  8 JAN 2013 15:21
 entering extended mode
 **C:/Users/BenShih/BenFiles/website/SimpleExplanations/DynamicProgramming.tex
 (C:/Users/BenShih/BenFiles/website/SimpleExplanations/DynamicProgramming.tex
@@ -78,7 +78,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
- <cookie.jpg, id=1, 1203.49625pt x 1108.14pt>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 16.
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
+
+<cookie.jpg, id=1, 1203.49625pt x 1108.14pt>
+File: cookie.jpg Graphic file (type jpg)
+ <use cookie.jpg>
 File: cookie.jpg Graphic file (type jpg)
  <use cookie.jpg>
 File: cookie.jpg Graphic file (type jpg)
@@ -124,14 +133,12 @@ File: cookie.jpg Graphic file (type jpg)
  <use cookie.jpg>
 File: cookie.jpg Graphic file (type jpg)
  <use cookie.jpg>
-File: cookie.jpg Graphic file (type jpg)
- <use cookie.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 15--48
+Underfull \hbox (badness 10000) in paragraph at lines 21--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--48
+Underfull \hbox (badness 10000) in paragraph at lines 21--54
 
  []
 
@@ -139,28 +146,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--48
 
 {C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map} <C:/Users/BenShih/BenFiles
 /website/SimpleExplanations/cookie.jpg>]
-Overfull \hbox (26.35957pt too wide) in paragraph at lines 50--52
-\OT1/cmr/m/n/12 http://www.quora.com/Computer-Programming/How-should-I-explain-
-dynamic-
+Overfull \hbox (69.47719pt too wide) in paragraph at lines 59--61
+[]\OT1/cmr/m/n/12 Inspired by Jonathan Paul-son's an-swer on quora: http://www.
+quora.com/Computer-
+ []
+
+
+Overfull \hbox (7.42921pt too wide) in paragraph at lines 59--61
+\OT1/cmr/m/n/12 Programming/How-should-I-explain-dynamic-programming-to-a-4-yea
+r-
  []
 
 [2]
 (C:\Users\BenShih\BenFiles\website\SimpleExplanations\DynamicProgramming.aux) )
  
 Here is how much of TeX's memory you used:
- 897 strings out of 495285
- 11761 string characters out of 3179873
+ 915 strings out of 495285
+ 12076 string characters out of 3179873
  61304 words of memory out of 3000000
- 4151 multiletter control sequences out of 15000+200000
- 5756 words of font info for 21 fonts, out of 3000000 for 9000
+ 4166 multiletter control sequences out of 15000+200000
+ 6013 words of font info for 22 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  25i,6n,19p,251b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on DynamicProgramming.pdf (2 pages, 333418 bytes).
+rogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on DynamicProgramming.pdf (2 pages, 344027 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
